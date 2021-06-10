@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bruunos
-- 👀 I’m interested in Games, Series and Tecnology
+- 👀 I’m interested in Games, TV Series and Tecnology
 - 🌱 I’m currently learning React and Kotlin
 - 💞️ I’m looking to collaborate on all kind of projects
 - 📫 How to reach me www.linkedin.com/in/bruno-lourenço-oliveira12
